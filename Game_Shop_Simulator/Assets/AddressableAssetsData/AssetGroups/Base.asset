@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Base
+  m_EditorClassIdentifier: 
+  m_GroupName: Base
+  m_GUID: ae340a21333ccd044821d93a697632ba
+  m_SerializeEntries:
+  - m_GUID: 0f066bca59bc3cf489855e3ea4a4acb2
+    m_Address: Assets/Prefabs/BuildObjectPrefabs/Small Shelf.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - placeable
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2216655954b4db24b8389d75b4619cf1
+    m_Address: Assets/StockLayouts/PlayBox_Layout_Medium.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - stockprefab
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3dcff298ed8c9ad48ac484b04136fbb7
+    m_Address: Assets/_Code/Game Systems/Stock/AllStock/TortoiseShore.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - stockdata
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5104d0ca23b7b0f49ab6aca99f144812
+    m_Address: Assets/Prefabs/BuildObjectPrefabs/MediumShelf_1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - placeable
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5929340d27f53b04a808d89eebbfe5a4
+    m_Address: Assets/Prefabs/AI Customers/AI_Customer_Relaxed.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ai
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9e16cd7c39d52f14e97c10ce6347bfaa
+    m_Address: Assets/_Code/Game Systems/Stock/AllStock/PlayBox.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - stockdata
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a713fa9f6e5473543b07cd27cf0b3f7a
+    m_Address: Assets/Prefabs/BuildObjectPrefabs/Checkout.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - placeable
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b5605518b270a4c489dbf84e2e14736b
+    m_Address: Assets/Prefabs/StockLayouts/TortoiseShore_Layout.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - stockprefab
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bc79e4b2ec040844bbc957829c558877
+    m_Address: Assets/Prefabs/BuildObjectPrefabs/Faux Wall.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - placeable
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bd3198eb7bd4e644197912413c3bfd7e
+    m_Address: Assets/Prefabs/AI Customers/AI_Customer_Impatient.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ai
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 627e97a1c0f742c4badca125d0cea238, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 8a007c019d9a70345891299c882824ac, type: 2}
+    - {fileID: 11400000, guid: 9a91920a5dd0abb4b95409bbf06462db, type: 2}

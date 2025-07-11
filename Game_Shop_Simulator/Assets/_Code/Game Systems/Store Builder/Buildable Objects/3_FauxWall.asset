@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a21e5d4659bc4ec47a797fe3b32ca2df, type: 3}
+  m_Name: 3_FauxWall
+  m_EditorClassIdentifier: 
+  objectName: Faux Wall
+  objectID: 3
+  objectPrice: 25
+  isTraversable: 0
+  orientation: 1
+  isStackable: 0
+  toleranceAngle: 25
+  isOverlappable: 0
